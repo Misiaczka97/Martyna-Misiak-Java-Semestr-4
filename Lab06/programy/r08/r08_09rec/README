@@ -1,0 +1,11 @@
+Używa 
+
+public static record Person(int id, String name)
+
+zamiast 
+
+public static class Person(int id, String name)
+
+Więcej o rekordach:
+
+https://javastart.pl/baza-wiedzy/slownik/rekordy

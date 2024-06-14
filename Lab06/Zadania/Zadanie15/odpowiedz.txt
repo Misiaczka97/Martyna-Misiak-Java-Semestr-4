@@ -1,0 +1,3 @@
+Strumienie są jednorazowe i można je przetwarzać tylko raz.
+Wywołanie count() po sum() spowodowałoby, że strumień zostałby
+już zamknięty, co uniemożliwiłoby dalsze operacje.

@@ -1,0 +1,4 @@
+Sprawdzenie, czy strumień jest skończony, 
+może spowodować jego pełne przetworzenie,
+co jest nieefektywne i może spowodować 
+zawieszenie programu dla nieskończonych strumieni.
